@@ -1,0 +1,23 @@
+RU
+1. Дан список чатов. Каждый чат состоит из двух полей: название и количество пользователей в этом чате.
+
+Задача:
+
+- Удалить с помощью итератора из этого списка те чаты, что содержат менее 1000 пользователей.
+
+- Оставшиеся чаты отсортировать с помощью компараторов по убыванию по количеству пользователей, а если это количество совпадает,
+  то по названию в алфавитном порядке.
+-Также предоставить сортировку чатов по названию по умолчанию.
+
+EN
+
+1. Given a list of chats. Each chat consists of two fields: the name and the number of users in this chat.
+
+Task:
+
+- Use an iterator to remove from this list those chats that contain less than 1000 users.
+
+- Sort the remaining chats using comparators in descending order by the number of users, and if this number matches,
+  then by name in alphabetical order.
+
+- Also provide sorting of chats by name by default.
